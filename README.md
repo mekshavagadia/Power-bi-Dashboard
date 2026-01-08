@@ -43,5 +43,6 @@ Found high-performing regions
 
 Analyzed sales trends over time
 
-7. 🔗 Direct Screenshot Link:
-https://github.com/mekshavagadia/Power-bi-Dashboard/blob/main/Screenshot%202025-12-31%20214730.png
+7. ## Dashboard Preview 🖼️
+
+![Sales Dashboard](https://github.com/mekshavagadia/Power-bi-Dashboard/blob/main/Screenshot%202025-12-31%20214730.png)
