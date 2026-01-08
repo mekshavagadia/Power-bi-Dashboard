@@ -44,4 +44,5 @@ Analyzed sales trends over time
 
 6. Screenshot
 
+show the what a dashboard look like : (https://github.com/mekshavagadia/Power-bi-Dashboard/blob/main/Screenshot%202025-12-31%20214730.png)
 
