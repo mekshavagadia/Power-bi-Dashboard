@@ -2,7 +2,7 @@
 
 This Power BI project focuses on analyzing sales and customer data to generate meaningful business insights. The dashboard helps understand sales performance, customer trends, and key KPIs through interactive visualizations.
 
-# Objectives
+1. Objectives
 
 Analyze total sales, profit, and order trends
 
@@ -10,7 +10,7 @@ Identify top-performing categories and regions
 
 Understand customer behavior using filters and slicers
 
-# Tools & Technologies
+2. Tools & Technologies
 
 Power BI
 
@@ -18,7 +18,7 @@ Power Query (Data Cleaning & Transformation)
 
 DAX (Calculated Measures & KPIs)
 
-# Key Features
+3. Key Features
 
 Interactive dashboard with slicers
 
@@ -28,11 +28,11 @@ Category-wise & region-wise analysis
 
 Clean and user-friendly visuals
 
-# Dataset
+4. Dataset
 
-Sample sales dataset (cleaned and transformed)
+Sample sales dataset :
 
-# Insights Generated
+5. Insights Generated
 
 Identified top revenue-generating categories
 
