@@ -1,4 +1,4 @@
-Sales Dashboard 📊
+# Sales Dashboard 
 1. Project Overview
 
 This Power BI project focuses on analyzing sales and customer data to generate meaningful business insights.
