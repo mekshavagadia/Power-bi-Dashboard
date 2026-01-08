@@ -2,6 +2,8 @@
 
 This Power BI project focuses on analyzing sales and customer data to generate meaningful business insights. The dashboard helps understand sales performance, customer trends, and key KPIs through interactive visualizations.
 
+# Sales Dashboard
+
 1. Objectives
 
 Analyze total sales, profit, and order trends
@@ -30,7 +32,7 @@ Clean and user-friendly visuals
 
 4. Dataset
 
-Sample sales dataset :
+Sample sales dataset : https://github.com/mekshavagadia/Power-bi-Dashboard/blob/main/Sales_PowerBI_Project_Data.xlsx
 
 5. Insights Generated
 
