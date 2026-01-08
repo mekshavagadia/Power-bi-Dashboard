@@ -45,5 +45,4 @@ Analyzed sales trends over time
 
 7. Dashboard Screenshot 🖼️
 
-Preview of the Power BI Dashboard:
-(https://github.com/mekshavagadia/Power-bi-Dashboard/blob/main/Screenshot%202025-12-31%20214730.png)
+Preview of the Power BI Dashboard: !(https://github.com/mekshavagadia/Power-bi-Dashboard/blob/main/Screenshot%202025-12-31%20214730.png)
