@@ -1,8 +1,6 @@
-# Project Overview
-
-This Power BI project focuses on analyzing sales and customer data to generate meaningful business insights. The dashboard helps understand sales performance, customer trends, and key KPIs through interactive visualizations.
-
 # Sales Dashboard
+Project Overview
+This Power BI project focuses on analyzing sales and customer data to generate meaningful business insights. The dashboard helps understand sales performance, customer trends, and key KPIs through interactive visualizations.
 
 1. Objectives
 
