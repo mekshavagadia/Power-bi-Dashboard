@@ -41,3 +41,7 @@ Identified top revenue-generating categories
 Found high-performing regions
 
 Analyzed sales trends over time
+
+6. Screenshot
+
+
